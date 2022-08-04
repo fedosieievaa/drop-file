@@ -1,6 +1,6 @@
 import "./App.css";
-// import { DataUploader } from "./components/DataUploader/DataUploader";
 import { DataDropZone } from "./components/DataDropZone/DataDropZone";
+// import { DataUploader } from "./components/DataUploader/DataUploader";
 
 function App() {
   return (
